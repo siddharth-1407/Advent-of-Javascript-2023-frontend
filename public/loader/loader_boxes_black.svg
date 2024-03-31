@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0"
+    xmlns="http://www.w3.org/2000/svg" id="圖層_1" version="1.1" width="200px" height="200px"
+    xmlns:xlink="http://www.w3.org/1999/xlink" style="width:100%;height:100%;animation-play-state:paused">
+    <g class="ldl-scale"
+        style="transform-origin:50% 50% 0px;transform:rotate(0deg) scale(0.8);animation-play-state:paused">
+        <g style="animation-play-state:paused">
+            <path d="M54.803 37.499l6.323-.357.357-6.324 9.922 9.922-6.681 6.681z" stroke-miterlimit="10"
+                stroke-width="3.5" stroke="#333" fill="#f47e60"
+                style="stroke:rgb(53, 53, 53);fill:rgb(212, 212, 212);animation-play-state:paused"></path>
+            <path d="M87.823 37.499l-6.324-.357-.357-6.324-9.922 9.922 6.681 6.681z" stroke-miterlimit="10"
+                stroke-width="3.5" stroke="#333" fill="#f47e60"
+                style="stroke:rgb(53, 53, 53);fill:rgb(212, 212, 212);animation-play-state:paused"></path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#333" fill="#e0e0e0"
+                d="M87.462 55.444H55.163a2.537 2.537 0 0 1-2.537-2.537v-7.384a2.537 2.537 0 0 1 2.537-2.537h32.299a2.537 2.537 0 0 1 2.537 2.537v7.384a2.536 2.536 0 0 1-2.537 2.537z"
+                style="stroke:rgb(53, 53, 53);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#333" fill="#e0e0e0"
+                d="M86.105 55.444H56.52v16.585a3.162 3.162 0 0 0 3.162 3.162h23.261a3.162 3.162 0 0 0 3.162-3.162V55.444z"
+                style="stroke:rgb(53, 53, 53);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path d="M66.618 42.985h9.39v32.206h-9.39z" stroke-miterlimit="10" stroke-width="3.5" stroke="#333"
+                fill="#f47e60" style="stroke:rgb(53, 53, 53);fill:rgb(212, 212, 212);animation-play-state:paused">
+            </path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#000" opacity=".2"
+                d="M87.462 42.985H72.425v32.206h10.519a3.162 3.162 0 0 0 3.162-3.162V55.444h1.357A2.537 2.537 0 0 0 90 52.907v-7.384a2.538 2.538 0 0 0-2.538-2.538z"
+                style="stroke:rgb(102, 102, 102);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path d="M60.105 66.931v-7.939" stroke-miterlimit="10" stroke-linecap="round" stroke-width="3.5"
+                stroke="#fff" fill="none" style="stroke:rgb(53, 53, 53);animation-play-state:paused"></path>
+            <path d="M56.029 51.235v-4.879" stroke-miterlimit="10" stroke-linecap="round" stroke-width="3.5"
+                stroke="#fff" fill="none" style="stroke:rgb(53, 53, 53);animation-play-state:paused"></path>
+        </g>
+        <g style="animation-play-state:paused">
+            <path d="M11.715 46.767l4.981-.281.282-4.982 7.816 7.817-5.263 5.262z" stroke-miterlimit="10"
+                stroke-width="3.5" stroke="#333" fill="#f8b26a"
+                style="stroke:rgb(53, 53, 53);fill:rgb(155, 155, 155);animation-play-state:paused"></path>
+            <path d="M37.727 46.767l-4.982-.281-.281-4.982-7.816 7.817 5.263 5.262z" stroke-miterlimit="10"
+                stroke-width="3.5" stroke="#333" fill="#f8b26a"
+                style="stroke:rgb(53, 53, 53);fill:rgb(155, 155, 155);animation-play-state:paused"></path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#333" fill="#e0e0e0"
+                d="M37.443 60.904H11.999A1.999 1.999 0 0 1 10 58.905v-5.817c0-1.104.895-1.999 1.999-1.999h25.444c1.104 0 1.999.895 1.999 1.999v5.817a1.999 1.999 0 0 1-1.999 1.999z"
+                style="stroke:rgb(53, 53, 53);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#333" fill="#e0e0e0"
+                d="M36.374 60.904H13.068v12.874a2.49 2.49 0 0 0 2.491 2.491h18.324a2.49 2.49 0 0 0 2.491-2.491V60.904z"
+                style="stroke:rgb(53, 53, 53);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path d="M21.023 51.089h7.397v25.179h-7.397z" stroke-miterlimit="10" stroke-width="3.5" stroke="#333"
+                fill="#f8b26a" style="stroke:rgb(53, 53, 53);fill:rgb(155, 155, 155);animation-play-state:paused">
+            </path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#000" opacity=".2"
+                d="M37.443 51.089H25.596v25.179h8.287a2.49 2.49 0 0 0 2.491-2.491V60.904h1.069a1.999 1.999 0 0 0 1.999-1.999v-5.817a1.999 1.999 0 0 0-1.999-1.999z"
+                style="stroke:rgb(102, 102, 102);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path d="M16.767 70.829v-6.254" stroke-miterlimit="10" stroke-linecap="round" stroke-width="3.5"
+                stroke="#fff" fill="none" style="stroke:rgb(53, 53, 53);animation-play-state:paused"></path>
+            <path d="M13.557 57.561v-3.075" stroke-miterlimit="10" stroke-linecap="round" stroke-width="3.5"
+                stroke="#fff" fill="none" style="stroke:rgb(53, 53, 53);animation-play-state:paused"></path>
+        </g>
+        <g style="animation-play-state:paused">
+            <path d="M32.552 28.243l6.964-.394.394-6.964 10.926 10.927-7.357 7.357z" stroke-miterlimit="10"
+                stroke-width="3.5" stroke="#333" fill="#e15b64"
+                style="stroke:rgb(53, 53, 53);fill:rgb(255, 255, 255);animation-play-state:paused"></path>
+            <path d="M68.916 28.243l-6.964-.394-.394-6.964-10.926 10.927 7.357 7.357z" stroke-miterlimit="10"
+                stroke-width="3.5" stroke="#333" fill="#e15b64"
+                style="stroke:rgb(53, 53, 53);fill:rgb(255, 255, 255);animation-play-state:paused"></path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#333" fill="#e0e0e0"
+                d="M68.519 48.004h-35.57a2.794 2.794 0 0 1-2.794-2.794v-8.132a2.794 2.794 0 0 1 2.794-2.794h35.569a2.794 2.794 0 0 1 2.794 2.794v8.132a2.793 2.793 0 0 1-2.793 2.794z"
+                style="stroke:rgb(53, 53, 53);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#333" fill="#e0e0e0"
+                d="M67.024 48.004h-32.58v27.629a3.482 3.482 0 0 0 3.482 3.482h25.616a3.482 3.482 0 0 0 3.482-3.482V48.004z"
+                style="stroke:rgb(53, 53, 53);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path d="M45.564 34.284h10.34v44.831h-10.34z" stroke-miterlimit="10" stroke-width="3.5" stroke="#333"
+                fill="#e15b64" style="stroke:rgb(53, 53, 53);fill:rgb(255, 255, 255);animation-play-state:paused">
+            </path>
+            <path stroke-miterlimit="10" stroke-width="3.5" stroke="#000" opacity=".2"
+                d="M68.519 34.284H51.958v44.831h11.584a3.482 3.482 0 0 0 3.482-3.482V48.004h1.495a2.794 2.794 0 0 0 2.794-2.794v-8.132a2.794 2.794 0 0 0-2.794-2.794z"
+                style="stroke:rgb(102, 102, 102);fill:rgb(102, 102, 102);animation-play-state:paused"></path>
+            <path d="M38.391 60.655v-8.743" stroke-miterlimit="10" stroke-linecap="round" stroke-width="3.5"
+                stroke="#fff" fill="none" style="stroke:rgb(53, 53, 53);animation-play-state:paused"></path>
+            <path d="M33.903 43.369v-5.372" stroke-miterlimit="10" stroke-linecap="round" stroke-width="3.5"
+                stroke="#fff" fill="none" style="stroke:rgb(53, 53, 53);animation-play-state:paused"></path>
+        </g>
+        <metadata xmlns:d="https://loading.io/stock/" style="animation-play-state:paused">
+            <d:name style="animation-play-state:paused">gif</d:name>
+
+
+            <d:tags style="animation-play-state:paused">
+                gif,present,box,offer,giveaway,prize,award,offering,party,christmas,birthday</d:tags>
+
+
+            <d:license style="animation-play-state:paused">by</d:license>
+
+
+            <d:slug style="animation-play-state:paused">9bk8rc</d:slug>
+        </metadata>
+    </g><!-- generated by https://loading.io/ -->
+</svg>
