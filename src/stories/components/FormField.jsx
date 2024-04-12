@@ -21,7 +21,7 @@ FormField.propTypes = {
 	label: PropTypes.string.isRequired,
 	fileType: PropTypes.string,
 	name: PropTypes.string.isRequired,
-	value: PropTypes.string.isRequired,
+	value: PropTypes.string,
 	onChange: PropTypes.func.isRequired,
 	rows: (props, propName) => {
 		if (props.type !== 'textarea' && props[propName]) {
@@ -268,7 +268,6 @@ function CheckBoxInput({ label, value, name, checked, onChange }) {
 	);
 }
 function RadioInput({ label, value, name, checked, onChange }) {
-	console.log(checked);
 	return (
 		<div className='flex flex-row-reverse items-center justify-end gap-4 relative'>
 			<label

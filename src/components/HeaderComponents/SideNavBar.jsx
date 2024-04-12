@@ -40,7 +40,7 @@ export default function SideNavBar() {
 	}, [pathname]);
 	useEffect(() => {
 		const handleNavClick = (e) => {
-			if (!navbarRef.current.contains(e.target)) {
+			if (!navbarRef?.current?.contains(e.target)) {
 				setShowSideBar(false);
 			}
 		};

@@ -5,10 +5,7 @@ import { motion } from 'framer-motion';
 import { useSelector } from 'react-redux';
 import InvitationCard from '../../stories/components/InvitationCard';
 import supabase from '../../Services/Supabase';
-import { UploadAvatar, varifyPassword } from '../../Utils/Supabase';
-
-// I think its almost done. you need to just add upload profile picture functionality on registration, get the url and update the profile.
-// need to think about the home page for logedin user as well, try showing all current events the user is part of, here the sidebar shall not appear. If user is not yet part of any event, only the create event link should appear telling the user that he has no active evnets. All need to add code to send event reminders
+import { UploadAvatar, verifyPassword } from '../../Utils/Supabase';
 
 export default function ProfileUpdateForm() {
 	const [preview, setPreview] = useState(null);
@@ -31,7 +28,7 @@ export default function ProfileUpdateForm() {
 		e.preventDefault();
 		dispatch({ error: '' });
 		try {
-			const isPasswordCorrect = await varifyPassword(state.password);
+			const isPasswordCorrect = await verifyPassword(state.password);
 			if (!isPasswordCorrect) {
 				dispatch({ error: 'Incorrect password!' });
 				return;

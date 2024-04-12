@@ -32,6 +32,7 @@ export const getEventsJoinedByUser = createAsyncThunk('eventsJoinedByUser', asyn
 	}
 });
 export const getUserEvents = createAsyncThunk('event/fetchByOwnerId', async (userId, { dispatch, getState }) => {
+	if (!userId) return;
 	try {
 		const { data, error } = await supabase.from('Events').select('id,date,name,sendReminder,ownerId,pairingTriggered').match({
 			ownerId: userId,
