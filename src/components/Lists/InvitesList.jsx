@@ -12,7 +12,6 @@ export default function InvitesList({ invitees }) {
 	const [isAdmin, setIsAdmin] = useState(false);
 	useEffect(() => {
 		setIsAdmin(event?.ownerId === CurrentUserId);
-
 	}, [event]);
 
 	const handleRemoveUser = (user) => {
