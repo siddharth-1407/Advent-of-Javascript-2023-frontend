@@ -10,6 +10,7 @@ export default function ResetPassword_Form() {
 	const handleSubmit = async (e) => {
 		e.preventDefault();
 		try {
+			console.log(baseUrl)
 			const { error } = await supabase.auth.resetPasswordForEmail(email, {
 				redirectTo : `${baseUrl}/reset-password`,
 			});
