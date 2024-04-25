@@ -8,19 +8,19 @@ import { Helmet } from 'react-helmet';
 
 export default function ResetPassword() {
 	const navigate = useNavigate();
-	useEffect(
-		() => async () => {
-			// navigate the user to home if session exists and if there was an error while getting session
-			const { data, error } = await supabase.auth.getSession();
-			if (error) {
-				console.error('Error encountered while getting session : ', error);
-			}
-			if (data.session) {
-				navigate('/');
-			}
-		},
-		[]
-	);
+	// useEffect(
+	// 	() => async () => {
+	// 		// navigate the user to home if session exists and if there was an error while getting session
+	// 		const { data, error } = await supabase.auth.getSession();
+	// 		if (error) {
+	// 			console.error('Error encountered while getting session : ', error);
+	// 		}
+	// 		if (data.session) {
+	// 			navigate('/');
+	// 		}
+	// 	},
+	// 	[]
+	// );
 	return (
 		<AuthLayout>
 			<Helmet>
