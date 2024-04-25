@@ -14,7 +14,6 @@ export default function ResetPassword() {
 			const { data, error } = await supabase.auth.getSession();
 			if (error) {
 				console.error('Error encountered while getting session : ', error);
-				navigate('/');
 			}
 			if (data.session) {
 				navigate('/');
