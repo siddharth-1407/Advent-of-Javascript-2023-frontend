@@ -13,12 +13,13 @@ export default function ResetPassword_Form() {
 			const { error } = await supabase.auth.resetPasswordForEmail(email, {
 				redirectTo : `${baseUrl}/reset-password`,
 			});
-			if (!error) {
+			if (error) {
 				console.error('Error : resetPassword - ', error);
-				setResend(true);
 			}
 		} catch (error) {
 			console.log('Error exception : reset password submission - ', error);
+		}finally{
+		        setResend(true);
 		}
 	};
 	return (
