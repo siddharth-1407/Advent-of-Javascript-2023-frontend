@@ -26,7 +26,7 @@ export default function RegistrationForm() {
 					data: {
 						display_name: state.name,
 					},
-					redirectTo: `${BASE_URL}/login`,
+					emailRedirectTo: `${BASE_URL}/login`,
 				},
 			});
 			if (!error) {
